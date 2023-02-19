@@ -24,9 +24,7 @@ n = 4
 a = 1
 while a**2 <= n:
     print("num 4: ", a**2)
-    a = a + 1
-    continue
-
+    a
 n = 1
 a = 1
 while a**2 <= n:
@@ -46,5 +44,7 @@ a = 1
 while a**2 <= n:
     print("num 99: ", a**2)
     a = a + 1
+
+
 
 
