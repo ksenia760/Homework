@@ -13,3 +13,4 @@ print(math_class1 // 2 + math_class2 // 2 + math_class3 // 2 + math_class1 % 2 +
 m = "123456"
 new_number = list(reversed(m))
 print("Result:", new_number)
+
