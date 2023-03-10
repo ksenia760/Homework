@@ -3,4 +3,5 @@ d = {
   'fruit': ['baca', 'bacca', 'popum'],
   'punishment': ['malum', 'multa']
 }
-dict(zip(d.values(), d.keys()))
+a = list(zip(d.values(), d.keys()))
+print(a)
