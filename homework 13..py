@@ -6,3 +6,4 @@ d = {
 a = list(zip(d.values(), d.keys()))
 print(a)
 
+
